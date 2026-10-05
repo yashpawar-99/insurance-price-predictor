@@ -1,2 +1,2 @@
 
-insurance-price-predictor
+insurance-price-predictor-model
